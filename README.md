@@ -16,3 +16,5 @@
 [Java虚拟机（JVM）你只要看这一篇就够了！_Java笔记-CSDN博客_jvm](https://blog.csdn.net/qq_41701956/article/details/81664921)
 
 [基于Mysql数据库亿级数据下的分库分表方案 - 最新动态 - 恒生研究院 (hundsun.com)](https://rdc.hundsun.com/portal/article/945.html)
+
+https://rdc.hundsun.com/portal/article/945.html
